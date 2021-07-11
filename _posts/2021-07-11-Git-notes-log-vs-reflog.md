@@ -1,5 +1,5 @@
 ---
-title: Git notes: log vs reflog
+title: Git notes - log vs reflog
 ---
 
 Let's compare base git functions - log and reflog.
